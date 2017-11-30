@@ -1,0 +1,5 @@
+H:\Projects\EECE\BlockBreaker\BlockBreaker\BlockBreakerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sadiq\Desktop\Project\Source\BlockBreaker\BlockBreakerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\block-breaker-master\BlockBreaker\BlockBreakerContent\obj\x86\Debug\BlockBreakerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\BlockBreakerProject_RichardKim\BlockBreaker\BlockBreakerContent\obj\x86\Debug\BlockBreakerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Richard\BlockBreakerProject_RichardKim\BlockBreaker\BlockBreakerContent\obj\x86\Debug\BlockBreakerContent.contentprojResolveAssemblyReference.cache
